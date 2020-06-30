@@ -1,5 +1,5 @@
 # jdbc2mssql
-A simple utility to query a MS SQL query databse using Microsoft's JDBC driver.
+A simple utility to query a MS SQL database using Microsoft's JDBC driver.
 
 ### Dev Dependencies
 * Java JDK 8u251
